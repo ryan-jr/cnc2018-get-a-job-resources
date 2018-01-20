@@ -1,6 +1,6 @@
-#PRE-MISSION
+# PRE-MISSION
 
-##Your first assignment is heeeeeeeerrrree!!!
+## Your first assignment is heeeeeeeerrrree!!!
 
 **PRE-MISSION:** Complete an honest, self-evaluation.
 
